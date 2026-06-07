@@ -4,8 +4,8 @@ training_data = [
     (1, 0, 1),
     (1, 1, 1)
 ]
+# nor target -> 1, 0, 0, 0
 
-# Initialize weights and bias
 w1 = 0
 w2 = 0
 bias = 0

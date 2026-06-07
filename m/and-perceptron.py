@@ -5,7 +5,7 @@ training_data = [
     (1, 1, 1)
 ]
 
-# Initialize weights and bias
+# nand target -> 1, 1, 1, 0
 w1 = 0
 w2 = 0
 bias = 0
